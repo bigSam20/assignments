@@ -73,7 +73,7 @@ section{
     position: relative;
     width: 100%;
     height: 100vh;
-    background: url(/images/22222/photo-1527151977613-a89904713c47.avif);
+    background: url(images/22222/photo-1527151977613-a89904713c47.avif);
     background-size: cover;
     background-position: center;
     display: grid;
